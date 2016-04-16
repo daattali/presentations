@@ -18,4 +18,4 @@ Just a place for me to keep all my presetations/papers/etc since they were scatt
 
 ## Interview
 
-[R-Podcast interview](./2016-01-30_rpodcast-interview.mp3) ([website](https://r-podcast.org/posts/the-r-podcast-episode-16-interview-with-dean-attali.html)) 2016-01-30
+- [R-Podcast interview](./2016-01-30_rpodcast-interview.mp3) ([website](https://r-podcast.org/posts/the-r-podcast-episode-16-interview-with-dean-attali.html)) 2016-01-30

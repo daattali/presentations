@@ -10,6 +10,7 @@ Just a place for me to keep all my presetations/papers/etc since they were scatt
 
 ## Papers
 
+- [MSc Thesis](./2016-04_MSc-thesis.pdf) 2016-04
 - [Quantitative Detection and Resolution of BRAF V600 Status in Colorectal Cancer Using Droplet Digital PCR and a Novel Wild-Type Negative Assay](./2016-03_braf-v600-paper.pdf) ([journal](http://jmd.amjpathol.org/article/S1525-1578(15)00262-7/abstract)) 2016-03
 - [ddpcr: an R package and web application for analysis of droplet digital PCR data](http://bit.ly/ddpcr-paper) 2016-?? 
 - [Konnector: Connecting paired-end reads using a bloom filter de Bruijn graph](./2014-11_Konnector_paper.pdf) ([journal](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6999126)) 2014-11

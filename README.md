@@ -2,9 +2,9 @@ Just a place for me to keep all my presetations/papers/etc since they were scatt
 
 ## Presentations
 
-- [Shiny tutorial](http://bit.ly/shiny-tutorial-slides) ([detailed tutorial](http://deanattali.com/blog/building-shiny-apps-tutorial/), [PDF](./2015-12_Building-Shiny-apps-tutorial.pdf)) 2015-12
-- shinyjs: [Video](http://bit.ly/shinyjs-2016-shinydevcon) and [presentation slides](http://bit.ly/shinyjs-slides) ([PDF](./2016-01-31_shinyjs-shiny-devcon.pdf)) of my shinyjs talk from the 2016 Shiny Developer Conference 2016-01-31
-- shinyjs: [Presentation slides](http://bit.ly/shinyjs-slides-useR2016) ([PDF](./2016-06-30_shinyjs-user2016.pdf)) of my shinyjs talk from useR!2016 2016-06-30
+- [Shiny tutorial](http://deanattali.com/blog/building-shiny-apps-tutorial/) ([tutorial slides](http://bit.ly/shiny-tutorial-slides), [PDF](./2015-12_Building-Shiny-apps-tutorial.pdf)) 2015-12
+- shinyjs: [Video](http://deanattali.com/shinyjs-shinydevcon-2016/) and [presentation slides](http://bit.ly/shinyjs-slides) ([PDF](./2016-01-31_shinyjs-shiny-devcon.pdf)) of my shinyjs talk (30 min) from the 2016 Shiny Developer Conference 2016-01-31
+- shinyjs: [Video](http://deanattali.com/shinyjs-user-2016/) and [presentation slides](http://bit.ly/shinyjs-slides-useR2016) ([PDF](./2016-06-30_shinyjs-user2016.pdf)) of my shinyjs talk (5 min) from useR!2016 2016-06-30
 - [MSc exit seminar](http://bit.ly/msc-exit-seminar) ([Audio](./2016-04-15_MSc-exit-seminar.mp3), [PDF](./2016-04-15_MSc-exit-seminar.pdf)) 2016-04-15
 - [MSc defense](http://bit.ly/msc-defense) ([PDF](./2016-04-21_MSc-defense.pdf)) 2016-04-21
 

@@ -20,6 +20,7 @@ Just a place for me to keep all my presetations/papers/etc since they were scatt
 
 - [ddPCR poster for conferences](http://bit.ly/ddpcr-braf-poster) ([PDF](./2015_ddpcr-braf-poster.pdf)) 2015
 
-## Interview
+## Interviews
 
-- [R-Podcast interview](./2016-01-30_rpodcast-interview.mp3) ([website](https://r-podcast.org/posts/the-r-podcast-episode-16-interview-with-dean-attali.html)) 2016-01-30
+- [R-Podcast interview #1](./2016-01-30_rpodcast-interview.mp3) ([website](https://r-podcast.org/posts/the-r-podcast-episode-16-interview-with-dean-attali.html)) 2016-01-30
+- [R-Podcast interview #2](./2017-01-11_rpodcast-interview-2.mp3) ([website](https://www.r-podcast.org/posts/the-r-podcast-episode-19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.html#)) 2017-01-11
